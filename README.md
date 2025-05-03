@@ -23,6 +23,7 @@ Este projeto realiza uma análise exploratória dos dados da COVID-19 no Brasil,
 
 📎 Observações
 Os dados utilizados são estáticos e não são atualizados em tempo real.
+
 O projeto foi feito com fins educacionais e de portfólio.
 
 📈 Resultado Visual
