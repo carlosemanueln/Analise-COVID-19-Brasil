@@ -1,6 +1,7 @@
 🦠 Análise de Dados COVID-19 por Estado (Brasil)
 
 📌 Descrição
+
 Este projeto realiza uma análise exploratória dos dados da COVID-19 no Brasil, utilizando a biblioteca `pandas` para manipulação de dados, além das bibliotecas `matplotlib` e `seaborn` para visualizações. O objetivo é entender a distribuição de casos e mortes por estado no último dia registrado da base de dados.
 
 📂 Fonte dos Dados
