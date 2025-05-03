@@ -26,4 +26,4 @@ O projeto foi feito com fins educacionais e de portfólio.
 
 📈 Resultado Visual
 Gráfico 1: https://github.com/carlosemanueln/covid19-analise-brasil/blob/main/Gr%C3%A1fico%201.png
-Gráfico 2: 
+Gráfico 2: https://github.com/carlosemanueln/covid19-analise-brasil/blob/main/Gr%C3%A1fico%202.png
