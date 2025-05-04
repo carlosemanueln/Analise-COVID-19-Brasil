@@ -22,6 +22,7 @@ Este projeto realiza uma análise exploratória dos dados da COVID-19 no Brasil,
 5. Visualização com gráfico de barras dos 10 estados com mais mortes acumuladas.
 
 📎 Observações
+
 Os dados utilizados são estáticos e não são atualizados em tempo real.
 
 O projeto foi feito com fins educacionais e de portfólio.
