@@ -24,9 +24,13 @@ Este projeto realiza uma análise exploratória dos dados da COVID-19 no Brasil,
 
 Os dados utilizados são estáticos e não são atualizados em tempo real.
 
+Todas as etapas possuem comentários linha por linha explicando a lógica usada.
 
 ## 📈 Resultado Visual
 
 Gráfico 1: https://github.com/carlosemanueln/covid19-analise-brasil/blob/main/Gr%C3%A1fico%201.png
 
 Gráfico 2: https://github.com/carlosemanueln/covid19-analise-brasil/blob/main/Gr%C3%A1fico%202.png
+
+## 📬 Contato
+Dúvidas ou sugestões? Me chame no GitHub:(https://github.com/carlosemanueln)
